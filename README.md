@@ -1,2 +1,2 @@
 # SoftwareProductionCourse
-The tasks for the Software Production course 
+The assignments for the [Software Production course](https://ohjelmistotuotanto-hy.github.io/)
